@@ -22,6 +22,8 @@ void printListValues(Node* item) {
     }
 }
 
+
+
 int main()
 {
     // Mkaing an Instance of a new Node
@@ -38,7 +40,7 @@ int main()
 
     //Setting the values
 
-    First->value = 20;
+    First->value = 50;
     Second->name = "Emmanuel Chibuike";
     Third->value = 40;
 
